@@ -7,12 +7,18 @@ public class GameManager : MonoBehaviour
     public bool IsPaused;
 
     public GameObject PausePanel;
+
+    
     // Start is called before the first frame update
     void Start()
     {
         
     }
+    public void SaveSkill()
+    {
 
+
+    }
     // Update is called once per frame
     void Update()
     {
