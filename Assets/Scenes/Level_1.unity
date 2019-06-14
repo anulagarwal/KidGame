@@ -677,11 +677,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Student_1 (3)
       objectReference: {fileID: 0}
-    - target: {fileID: -6057140222963153312, guid: 0511a743a7f6690499084aeedde74693,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 9055bdf37810f0548bec0a9128a5a87a, type: 2}
     - target: {fileID: -4216859302048453862, guid: 0511a743a7f6690499084aeedde74693,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -752,6 +747,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.008000004
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 0511a743a7f6690499084aeedde74693,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 9055bdf37810f0548bec0a9128a5a87a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0511a743a7f6690499084aeedde74693, type: 3}
 --- !u!1 &508330618
@@ -1006,11 +1006,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Student_1 (1)
       objectReference: {fileID: 0}
-    - target: {fileID: -6057140222963153312, guid: 0511a743a7f6690499084aeedde74693,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 9055bdf37810f0548bec0a9128a5a87a, type: 2}
     - target: {fileID: -4216859302048453862, guid: 0511a743a7f6690499084aeedde74693,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1081,6 +1076,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.008000004
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 0511a743a7f6690499084aeedde74693,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 9055bdf37810f0548bec0a9128a5a87a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0511a743a7f6690499084aeedde74693, type: 3}
 --- !u!1 &1705581645
@@ -1131,7 +1131,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 4d9f27b33c351184f9979825b081314d,
         type: 3}
       propertyPath: m_Name
-      value: Idle
+      value: Teacher_1
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 4d9f27b33c351184f9979825b081314d,
         type: 3}
@@ -1146,7 +1146,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 4d9f27b33c351184f9979825b081314d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.49
+      value: 1.12
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 4d9f27b33c351184f9979825b081314d,
         type: 3}
@@ -1313,11 +1313,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Student_1 (2)
       objectReference: {fileID: 0}
-    - target: {fileID: -6057140222963153312, guid: 0511a743a7f6690499084aeedde74693,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 9055bdf37810f0548bec0a9128a5a87a, type: 2}
     - target: {fileID: -4216859302048453862, guid: 0511a743a7f6690499084aeedde74693,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1388,6 +1383,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.008000004
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 0511a743a7f6690499084aeedde74693,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 9055bdf37810f0548bec0a9128a5a87a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0511a743a7f6690499084aeedde74693, type: 3}
 --- !u!1 &1942849377
